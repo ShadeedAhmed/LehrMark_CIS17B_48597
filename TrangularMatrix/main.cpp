@@ -3,6 +3,7 @@
  * Author: Dr. Mark E. Lehr
  * Created on August 27, 2014, 8:05 PM
  * Purpose:  First Data Structure Triangular Array
+ * Modified on Sept 3rd, 2014
  */
 
 //System Libraries
